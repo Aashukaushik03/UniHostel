@@ -3,12 +3,20 @@
 A full-stack web application designed to manage hostel operations efficiently. It helps students and administrators handle room allocation, gate pass requests, and overall hostel management in a digital way.
 
 🚀 Features
+
 👤 Student Registration & Login
+
 🔐 Secure Authentication (JWT / Session-based)
+
 🏠 Room Allocation System
+
 🚪 Gate Pass Request & Approval
+
 📊 Admin Dashboard
+
 📱 Responsive UI
+
+
 🛠️ Tech Stack
 
 Frontend:
@@ -38,9 +46,14 @@ npm install
 
 Create .env file and add:
 PORT=5000
+
 MONGO_URI=your_mongodb_connection
+
 JWT_SECRET=your_secret_key
+
+
 Run the project:
+
 npm start
 
 🎯 Future Scope
