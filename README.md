@@ -20,7 +20,7 @@ A full-stack web application designed to manage hostel operations efficiently. I
 🛠️ Tech Stack
 
 Frontend:
-HTML, CSS, JavaScript / React (mention what you used)
+HTML, CSS, JavaScript / React 
 
 Backend:
 Node.js, Express.js
@@ -57,11 +57,17 @@ Run the project:
 npm start
 
 🎯 Future Scope
+
 📱 Mobile App Integration
+
 🔔 Notification System
+
 💳 Online Fee Payment
+
 📍 Real-time Room Availability
+
 🙋‍♂️ Author
+
 
 📸 Screenshots
 <img width="1366" height="768" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/c21c1acc-a899-4fd4-8aa6-58c0532400ae" />
